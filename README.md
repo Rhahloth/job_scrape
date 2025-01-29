@@ -1,6 +1,6 @@
 # JOB LIST WEB SCRAPING
 
-This project is a part of my portfolio project at (https://rhahloth.github.io/raymond.okello/#.
+This project is a part of my portfolio project at (https://rhahloth.github.io/raymond.okello/#).
 
 #### -- Project Status: [Completed]
 
